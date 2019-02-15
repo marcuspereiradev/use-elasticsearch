@@ -41,7 +41,7 @@ group :development, :test do
   gem 'selenium-webdriver'
   # A library for generating fake data such as names, addresses, and phone numbers.
   gem 'faker'
-
+  gem 'searchkick'
 end
 
 group :development do
